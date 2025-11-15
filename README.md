@@ -1,14 +1,14 @@
 
 
-Intrusion Detection (Mini Project)
+# Intrusion Detection (Mini Project)
 
 
 
-A simple machine learning project for intrusion detection using the UNSW-NB15 dataset.
+### A simple machine learning project for intrusion detection using the UNSW-NB15 dataset.
 
 
 
-# Dataset
+## Dataset
 
 
 
@@ -18,7 +18,7 @@ A simple machine learning project for intrusion detection using the UNSW-NB15 da
 
 
 
-# Models
+## Models
 
 
 
@@ -30,7 +30,7 @@ A simple machine learning project for intrusion detection using the UNSW-NB15 da
 
 
 
-# Workflow
+## Workflow
 
 
 
@@ -43,6 +43,9 @@ A simple machine learning project for intrusion detection using the UNSW-NB15 da
 \- Build pipeline and tune hyperparameters with GridSearchCV
 
 \- Evaluate models on the test set
+
+
+## Goal
 
 
 
